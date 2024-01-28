@@ -3,7 +3,7 @@
 This is a shopping cart program written in the Kotlin programming language using IntelliJ IDEA."
 
 
-[Software Demo Video](https://www.youtube.com/watch?v=6IcAHt2TtCA)
+[Software cart Video](https://www.youtube.com/watch?v=2fwHsj9bhW0)
 
 # Development Environment
 
